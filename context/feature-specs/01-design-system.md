@@ -1,3 +1,5 @@
+# Design System
+
 Read `AGENTS.md` before starting.
 
 Install and configure `shadcn/ui`.
