@@ -1,3 +1,5 @@
+# Presence, Avatars, and Cursors
+
 Show active room participants inside the editor canvas view,
 without changing the editor home navbar.
 

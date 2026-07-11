@@ -1,3 +1,5 @@
+# Node Shape
+
 Replace the placeholder node renderer with proper shape rendering and a drag preview.
 
 ## Implementation

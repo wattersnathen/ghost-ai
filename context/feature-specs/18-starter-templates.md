@@ -1,3 +1,5 @@
+# Starter Templates
+
 Add a small starter template library so users can start a canvas from a pre-built diagram instead of building from scratch.
 
 ## Implementation

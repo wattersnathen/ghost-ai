@@ -1,3 +1,5 @@
+# AI Chat Functional
+
 Wire up the AI sidebar so users can submit design prompts, track AI run status
 in real time, and reflect AI-driven canvas updates through Liveblocks.
 

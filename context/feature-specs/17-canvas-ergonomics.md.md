@@ -1,3 +1,5 @@
+# Canvas Ergonomics
+
 Add a floating control bar for zoom and undo/redo, then wire the same actions to keyboard shortcuts.
 
 ## Implementation

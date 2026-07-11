@@ -1,3 +1,5 @@
+# Design Agent Logic
+
 Implement the full AI design agent so a user prompt results in real-time updates on the collaborative canvas, with visible AI presence and status.a
 
 ## Implementation

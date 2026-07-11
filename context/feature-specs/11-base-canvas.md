@@ -1,3 +1,5 @@
+# Base Canvas
+
 Replace the canvas placeholder with a Liveblocks-backed React Flow canvas.
 
 ## Implementation

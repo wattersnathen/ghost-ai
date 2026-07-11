@@ -1,3 +1,5 @@
+# Editor Chrome
+
 we need the base chrome components that frame every editor screen — the top navbar and the left sidebar shell. These will be reused and extended in every chapter that follows.
 
 ### Editor Navbar

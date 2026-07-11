@@ -1,3 +1,5 @@
+# Share Dialog
+
 Add sharing to the workspace so project owners can invite collaborators by email.
 
 ## Share Dialog

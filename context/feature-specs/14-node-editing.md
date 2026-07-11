@@ -1,3 +1,5 @@
+# Node Editing
+
 Add resizing and inline label editing to canvas nodes.
 
 ## Implementation

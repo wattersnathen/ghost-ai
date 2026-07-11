@@ -1,3 +1,5 @@
+# Design Agent API
+
 Set up the backend flow for design generation using Trigger.dev.
 This unit handles triggering background jobs, tracking runs, and issuing tokens. No AI logic yet.
 

@@ -1,3 +1,5 @@
+# Sidebar Chat Feed
+
 Add real-time room chat to the AI sidebar using a separate Liveblocks `ai-chat` feed.
 
 This is only for chat messages. Keep it separate from `ai-status-feed`, which handles AI progress and presence updates.

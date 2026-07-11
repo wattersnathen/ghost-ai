@@ -1,3 +1,5 @@
+# Wire Editor Home
+
 Wire the editor home sidebar and dialogs to the real project API.
 
 ### Data Fetching

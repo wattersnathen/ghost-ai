@@ -1,3 +1,5 @@
+# Liveblocks Setup
+
 Set up the realtime collaboration infrastructure using Liveblocks.
 
 ## Configuration

@@ -1,3 +1,5 @@
+# Edge Behavior
+
 Replace the default canvas edges with custom edges that feel easier
 to follow, easier to click, and support inline labels.
 

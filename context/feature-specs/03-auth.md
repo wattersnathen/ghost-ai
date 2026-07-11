@@ -1,3 +1,5 @@
+# Authentication
+
 Clerk is already installed and connected. Wire it into the Next.js app: provider, auth pages, redirects, route protection, and user menu.
 
 ## Design

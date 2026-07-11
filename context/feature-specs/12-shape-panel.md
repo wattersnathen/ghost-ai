@@ -1,3 +1,5 @@
+# Shape Panel
+
 Add a bottom shape panel so users can drag shapes onto the canvas and create new nodes.
 
 ## Implementation
